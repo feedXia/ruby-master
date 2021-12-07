@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mastery quizzes
 
 * [Setup](#setup)
@@ -126,3 +127,7 @@ $ rspec
 ## Fixing problems
 
 * Look at the [fixing problems](fixing_problems.md) guide.
+=======
+# ruby-mastery
+Work done for the Ruby Mastery bootcamp modules
+>>>>>>> 875d7ddef77924f4e9758dad69a0b04e990f0975
